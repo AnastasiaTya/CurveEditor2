@@ -1,1 +1,1 @@
-[Ссылка на Vercel.](https://curve-editor2.vercel.app/)
+[Ссылка на Редактор кривых.](https://curve-editor2.vercel.app/)
